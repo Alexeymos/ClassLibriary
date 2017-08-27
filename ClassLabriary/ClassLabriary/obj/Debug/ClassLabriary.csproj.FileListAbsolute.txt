@@ -1,0 +1,12 @@
+D:\с#\ClassLabriary\ClassLabriary\bin\Debug\ClassLabriary.exe.config
+D:\с#\ClassLabriary\ClassLabriary\bin\Debug\ClassLabriary.exe
+D:\с#\ClassLabriary\ClassLabriary\bin\Debug\ClassLabriary.pdb
+D:\с#\ClassLabriary\ClassLabriary\obj\Debug\ClassLabriary.csprojResolveAssemblyReference.cache
+D:\с#\ClassLabriary\ClassLabriary\obj\Debug\ClassLabriary.exe
+D:\с#\ClassLabriary\ClassLabriary\obj\Debug\ClassLabriary.pdb
+D:\C#\ClassLabriary\ClassLabriary\bin\Debug\ClassLabriary.exe.config
+D:\C#\ClassLabriary\ClassLabriary\bin\Debug\ClassLabriary.exe
+D:\C#\ClassLabriary\ClassLabriary\bin\Debug\ClassLabriary.pdb
+D:\C#\ClassLabriary\ClassLabriary\obj\Debug\ClassLabriary.csprojResolveAssemblyReference.cache
+D:\C#\ClassLabriary\ClassLabriary\obj\Debug\ClassLabriary.exe
+D:\C#\ClassLabriary\ClassLabriary\obj\Debug\ClassLabriary.pdb
